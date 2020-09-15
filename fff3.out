@@ -1,6 +1,4 @@
-"report-file-0"
-"Time Step" "flow-time etc.."
-("Time Step" "flow-time" "delta-time" "iters-per-timestep" "melting-francion" "outlet-temp" "pcm-temp" "pv-temp" "total-energy" "total-enternal-energy" "total-enthalpy" "total-entholpy-deviasion")
+"Time Step" "flow-time" "delta-time" "iters-per-timestep" "melting-francion" "outlet-temp" "pcm-temp" "pv-temp" "total-energy" "total-enternal-energy" "total-enthalpy" "total-entholpy-deviasion"
 0 0 100 0 0 300.15 300.15 300.15 6516.147 6516.147 6633.904 6633.904
 1 100 100 40 0 300.8303 300.8439 302.1676 8817.908 8817.908 8935.665 8935.665
 2 200 100 40 0 301.4361 301.6793 303.2567 11588.81 11588.81 11706.57 11706.57

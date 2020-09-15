@@ -1,6 +1,4 @@
-"report-file-0"
-"Time Step" "flow-time etc.."
-("Time Step" "flow-time" "delta-time" "iters-per-timestep" "melting-fraction" "outlet-temp" "pcm-temp" "pv-temp" "total-energy__" "total-enthalpy")
+"Time Step" "flow-time" "delta-time" "iters-per-timestep" "melting-fraction" "outlet-temp" "pcm-temp" "pv-temp" "total-energy__" "total-enthalpy"
 0 0 100 0 0 300.15 300.15 300.15 6114.127 6224.699
 1 100 100 40 0 300.9211 300.7979 302.3105 8130.519 8241.091
 2 200 100 40 0 301.539 301.5151 303.4206 10362.86 10473.43
